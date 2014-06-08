@@ -12,5 +12,5 @@ Legal notice
 ============
 
  - I do not work for Omron. I just own one HBF-701.
- - All trademarks and/or brands cited in this repository, including but not limited to "Omron" are property of their respespective owners.
+ - All trademarks and/or brands cited in this repository, including but not limited to "Omron" are property of their respective owners.
  - This work is licensed under a Creative Commons Attribution 4.0 International License.
